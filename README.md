@@ -4,7 +4,7 @@
   <p><strong>Official subtitle add-on for Kodi media center powered by the OpenSubtitles.com REST API.</strong></p>
 
   <p>
-    <a href="https://kodi.tv"><img src="https://img.shields.io/badge/Kodi-18%7C%2021%20%7C%2022-blue.svg?logo=kodi&logoColor=white" alt="Kodi Versions" /></a>
+    <a href="https://kodi.tv"><img src="https://img.shields.io/badge/Kodi-18-blue.svg?logo=kodi&logoColor=white" alt="Kodi Versions" /></a>
     <a href="https://python.org"><img src="https://img.shields.io/badge/python-2.7-blue?style=flat&logo=python&logoColor=white" alt="Python 2.7" /></a>
     <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-GPL--2.0-green.svg" alt="License" /></a>
   </p>
