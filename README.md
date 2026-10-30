@@ -5,9 +5,7 @@
 
   <p>
     <a href="https://kodi.tv"><img src="https://img.shields.io/badge/Kodi-18%7C%2021%20%7C%2022-blue.svg?logo=kodi&logoColor=white" alt="Kodi Versions" /></a>
-    <a href="https://python.org"><img src="https://img.shields.io/badge/Python-2.7.svg?logo=python&logoColor=white" alt="Python 2.7" /></a>
-    <a href="https://github.com/opensubtitles-dev/service.subtitles.opensubtitles-com/releases/latest"><img src="https://img.shields.io/github/v/release/opensubtitles-dev/service.subtitles.opensubtitles-com?label=Release&color=0284c7" alt="Latest Release" /></a>
-    <a href="https://github.com/opensubtitles-dev/service.subtitles.opensubtitles-com/actions/workflows/addon-check.yml"><img src="https://img.shields.io/github/actions/workflow/status/opensubtitles-dev/service.subtitles.opensubtitles-com/addon-check.yml?branch=master&label=Kodi%20Validation" alt="Validation Status" /></a>
+    <a href="https://python.org"><img src="https://img.shields.io/badge/python-2.7-blue?style=flat&logo=python&logoColor=white" alt="Python 2.7" /></a>
     <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-GPL--2.0-green.svg" alt="License" /></a>
   </p>
 
